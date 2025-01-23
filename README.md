@@ -11,3 +11,5 @@ Este proyecto es una aplicación para organizar un juego de "Amigo Secreto". Per
 ## Preview ▶️
 
 ![image](https://github.com/user-attachments/assets/8671aa54-28bb-4f4f-870a-7ac8bce57b83)
+
+![image](https://github.com/user-attachments/assets/2168f581-0764-4a6d-8aba-21cea63ed353)
